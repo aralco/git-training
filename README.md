@@ -5,3 +5,5 @@ A repo to test GIT features
 3. introducing a third feature.
 4. this is a feature 4 that will be reverted but not discarded.
 5. introducing a fifth feature.
+6. Introducing a sixth feature.
+
